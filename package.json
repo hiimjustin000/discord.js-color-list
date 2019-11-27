@@ -1,6 +1,6 @@
 {
   "name": "discord.js-color-list",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Color list for ColorResolvable",
   "main": "index.js",
   "bin": {
