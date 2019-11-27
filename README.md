@@ -8,7 +8,7 @@ npm i -g discord.js-color-list
 
 Then, run it.
 ```
-discord.js-color-list
+discordjs-color-list
 ```
 
 ## [Github](https://github.com/hiimjustin000/discord.js-color-list)

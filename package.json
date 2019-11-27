@@ -1,13 +1,17 @@
 {
   "name": "discord.js-color-list",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Color list for ColorResolvable",
   "main": "index.js",
   "bin": {
-    "discord.js-color-list": "index.js"
+    "discordjs-color-list": "index.js"
   },
   "scripts": {
     "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiimjustin000/discord.js-color-list"
   },
   "keywords": [
     "discord.js"
