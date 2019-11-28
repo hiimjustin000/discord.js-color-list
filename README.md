@@ -1,14 +1,5 @@
-# Discord.JS color list
-List of the colors used in [Discord.JS](https://discord.js.org)'s Type Definition, [ColorResolveable](https://discord.js.org/#/docs/main/stable/typedef/ColorResolvable).
+# WE HAVE MOVED
+Since the name has changed, I decided to move this to another repo.
 
-First, install the package.
-```
-npm i -g discord.js-color-list
-```
-
-Then, run it.
-```
-discordjs-color-list
-```
-
-## [Github](https://github.com/hiimjustin000/discord.js-color-list)
+[Github](https://github.com/hiimjustin000/discordjs-colors)
+[NPM Package](https://www.npmjs.com/package/discordjs-colors)
